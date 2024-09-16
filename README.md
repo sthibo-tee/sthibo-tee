@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sthibo-tee
+- 👋 Hi, I’m @Thabo Mlilo
 - 👀 I’m interested in gaming and programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and a student at We think code
 - 💞️ I’m looking to collaborate on projects which will improve my portfolio
-- 📫 How to reach me you can reach me on instagram @sthibo_tee
+- 📫 How to reach me you can reach me on instagram @thabomlilo
 - 😄 Pronouns: him / he
 - ⚡ Fun fact: i can't write code or program without coffee
 
